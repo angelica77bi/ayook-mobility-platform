@@ -1,4 +1,3 @@
-<a href="https://github.com/angelica77bi/ayook-mobility-platform"><b>GitHub</b></a>
 # 🚗 Ayook — Mobility Platform in Bali
 
 Ayook is a scooter rental platform designed to simplify how people move around Bali.
