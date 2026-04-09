@@ -43,11 +43,6 @@ Ayook aims to make mobility simple, reliable, and accessible.
 
 ---
 
-## 📸 Screenshots
-
-(Coming soon)
-
----
 
 ## 🌱 Future Direction
 
