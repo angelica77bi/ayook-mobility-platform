@@ -11,6 +11,12 @@
 
 ---
 
+## 📌 Overview
+
+Ayook is a scooter rental platform connecting travelers with local providers in Bali.
+
+---
+
 ## ✨ Features
 
 - Book scooters online in minutes  
@@ -35,12 +41,8 @@ React · Vite · React Router
 
 ---
 
-## 📁 Project Structure
-app/        # main application code
-public/     # static assets
----
+## ⚙️ Getting Started
 
-## 🌱 Notes
-
-This project explores how digital products connect with real-world services —  
-especially in mobility, travel, and local infrastructure.
+```bash
+npm install
+npm run dev
