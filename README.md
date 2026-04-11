@@ -11,10 +11,16 @@
   🌐 <a href="https://ayook.id"><b>Visit Live Site</b></a>
 </p>
 
-## 📌 Overview
+## 🚗 Ayook
 
-Ayook is a scooter rental platform connecting travelers with local providers in Bali.
+🚗 Ayook
 
+Hi! I'm Ayook — a mobility platform designed to simplify how travelers move around Bali.
+
+Built with a modern React-based stack, Ayook connects users with local providers,
+handling booking, logistics, and real-world service coordination seamlessly.
+
+Designed to solve fragmented mobility systems, unclear pricing, and offline rental friction.
 ---
 
 ## ✨ Features
