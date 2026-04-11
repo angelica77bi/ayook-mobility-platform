@@ -1,5 +1,7 @@
 <h1 align="center">🚗 Ayook</h1>
+
 ---
+
 <p align="center">
   <b>Mobility Platform in Bali</b><br/>
   Simplifying how people move around the island.
@@ -8,8 +10,6 @@
 <p align="center">
   🌐 <a href="https://ayook.id"><b>Visit Live Site</b></a>
 </p>
-
-
 
 ## 📌 Overview
 
